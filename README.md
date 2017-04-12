@@ -3,11 +3,11 @@ The following is an overview of one possible procedure for the deployment of a f
 Amazon lightsail costs. 
 
 
-### Project Access Details
+## Project Access Details
 1. IP Adress: **54.157.225.246**,  Port: 2200
 2. Complete url: [http://ec2-54-157-225-246.compute-1.amazonaws.com](http://ec2-54-157-225-246.compute-1.amazonaws.com)
 
-### Project Overview
+## Project Overview
 **Configuration Changes**
 - The ssh port was changed from 22 to 2200. 
 - Password authentication was disabled, securing the server by only allowing key based authentication. 
@@ -24,7 +24,7 @@ Amazon lightsail costs.
 - My [Activity Tracker](https://github.com/JPWILSON/ActivityTracker) - not really software. No, WAIT! It is! I made software :):):)
 - Git was installed, in order to clone my repo
 
-### Resources
+## Resources
 I made use of dozens of [Udacity](https://www.udacity.com) and [stackoverflow](http://stackoverflow.com/) forum threads for assistance and insight while completing this project. General topics (too many links to include) where the forums above were useful included: 
 - 'tail' for troubleshooting with apache2 logs 
 - chaging the path on client_secrets.json
