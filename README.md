@@ -25,7 +25,7 @@ Amazon lightsail costs.
 - Git was installed, in order to clone my repo
 
 ### Resources
-I made use of dozens of [Udacity](https://www.udacity.com) and [stacksverflow](http://stackoverflow.com/) forum threads for assistance and insight while completing this project.
+I made use of dozens of [Udacity](https://www.udacity.com) and [stackoverflow](http://stackoverflow.com/) forum threads for assistance and insight while completing this project.
 In particular, the following were useful: 
 - The following Digital Ocean Posts: 
   * [Deploying a flash App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps "How To Deploy a Flask Application on an Ubuntu VPS")
