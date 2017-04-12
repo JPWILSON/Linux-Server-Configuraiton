@@ -30,7 +30,7 @@ In particular, the following were useful:
 - The following Digital Ocean Posts: 
   * [Deploying a flash App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps "How To Deploy a Flask Application on an Ubuntu VPS")
   * [PostgresSQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04"How To Install and Use PostgreSQL on Ubuntu 16.04")
-- [This](http://sageelliott.com/post/post2-AWS-Flask_setup/"AWS configuration for flask") post by Sage Elliot
+- [This](http://sageelliott.com/post/post2-AWS-Flask_setup/ "AWS configuration for flask") post by Sage Elliot
 - 1:1 appointments with Udacity forum mentors
 
 
