@@ -30,6 +30,7 @@ I made use of dozens of [Udacity](https://www.udacity.com) and [stackoverflow](h
 - chaging the path on client_secrets.json
 - installing packages outside of the virtual environment
 - changing from sqlite to postgresql (username, password, database all named the same)
+
 In particular, the following were useful: 
 - The following Digital Ocean Posts: 
   * [Deploying a flash App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps "How To Deploy a Flask Application on an Ubuntu VPS")
