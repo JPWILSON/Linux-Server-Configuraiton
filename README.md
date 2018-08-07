@@ -1,6 +1,6 @@
 # Linux-Server-Configuraiton
 The following is an overview of one possible procedure for the deployment of a flask web application onto a baseline Ubuntu OS, hosted on Amazon Lightsail. A [sample application](http://ec2-54-157-225-246.compute-1.amazonaws.com) is hosted online for the time being, but I may take it off to avoid the monthly 
-Amazon lightsail costs. (Sorry, its not pretty, it was just demonstrating CRUD functionality on Flask). I'll try beautiful in the coming week or two).
+Amazon lightsail costs. (Sorry, its not pretty, it was just demonstrating CRUD functionality on Flask). 
 
 
 ## Project Access Details
