@@ -21,11 +21,12 @@ Amazon lightsail costs. (Sorry, its not pretty, it was just demonstrating CRUD f
 **Software Installed**
 - Postgresql
 - Flask Micro Web App Framework
-- My [Activity Tracker](https://github.com/JPWILSON/ActivityTracker) - not really software. No, WAIT! It is! I made software :):):)
+- My [Activity Tracker](https://github.com/JPWILSON/ActivityTracker)
 - Git was installed, in order to clone my repo
 
 ## Resources
-I made use of dozens of [Udacity](https://www.udacity.com) and [stackoverflow](http://stackoverflow.com/) forum threads for assistance and insight while completing this project. In **general**, topics (too many links to include) where the forums above were useful included: 
+I made use of [stackoverflow](http://stackoverflow.com/) and various online forum threads for assistance and insight. 
+In **general**, topics (too many links to include) where the forums were useful included: 
 - 'tail' for troubleshooting with apache2 logs 
 - chaging the path on client_secrets.json
 - installing packages outside of the virtual environment
